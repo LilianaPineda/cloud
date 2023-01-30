@@ -1,0 +1,4 @@
+﻿  PruebaAplicacion.cpp
+c:\users\harol\onedrive\documents\mami\proyecto tec\pruebaaplicacion\pruebaaplicacion\pruebaaplicacion.cpp(33): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\harol\onedrive\documents\mami\proyecto tec\pruebaaplicacion\pruebaaplicacion\pruebaaplicacion.cpp(34): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  PruebaAplicacion.vcxproj -> C:\Users\harol\OneDrive\Documents\Mami\Proyecto TEC\PruebaAplicacion\x64\Debug\PruebaAplicacion.exe

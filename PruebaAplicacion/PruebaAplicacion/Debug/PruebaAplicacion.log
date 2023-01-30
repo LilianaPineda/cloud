@@ -1,0 +1,3 @@
+﻿  PruebaAplicacion.cpp
+c1xx : warning C4199: no se admite la búsqueda de nombres en dos fases para OpenMP, C++/CLI o C++/CX. Use /Zc:twoPhase-
+  PruebaAplicacion.vcxproj -> C:\Users\harol\OneDrive\Documents\Mami\Proyecto TEC\PruebaAplicacion\Debug\PruebaAplicacion.exe
