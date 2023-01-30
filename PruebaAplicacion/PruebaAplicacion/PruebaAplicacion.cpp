@@ -10,8 +10,8 @@ using namespace std;
 
 //Definimos las constantes del programa
 #define N 1000 //Cambia el tamaño de los arreglos.
-#define chunk 300 //Es la cantidad de partes en que se distribuirá la carga de trabajo.
-#define mostrar 20 //Valores del arreglo que se mostrarán.
+#define chunk 500 //Es la cantidad de partes en que se distribuirá la carga de trabajo.
+#define mostrar 7 //Valores del arreglo que se mostrarán.
 
 //Función para imprimir valor de los arreglos
 void imprimeArreglo(float *d);
